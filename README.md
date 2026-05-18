@@ -162,12 +162,12 @@ This repository also includes an example n8n workflow used in the FlowScope AI M
 │   └── flowscope-ai-workflow.example.json
 ├── assets/
 │   └── screenshots/
-├── docs/
-│   ├── architecture.md
-│   ├── demo-flow.md
-│   ├── mvp-scope.md
-│   ├── product-overview.md
-│   └── team.md
+└── docs/
+    ├── architecture.md
+    ├── demo-flow.md
+    ├── mvp-scope.md
+    ├── product-overview.md
+    └── team.md
 ```
 
 ## Team
