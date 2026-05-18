@@ -9,7 +9,7 @@
 - Yuliana Dolhyi — UI/UX Designer
 - Dmytro Zinchenko — AI No-Code
 - Noga Ivan — Data Analyst
-- Mykhaylo — PM
+- Mykhaylo Gorbatov — PM
 
 ## Role Summary
 
