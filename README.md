@@ -48,11 +48,11 @@ The project addresses two connected problems:
 
 Verified market context used in the pitch:
 
-- 58% of enterprises in Ukraine reported difficulty finding qualified employees. Source: Ministry of Economy of Ukraine / UNN, June 4, 2024.
-- 43% of businesses already faced difficulties filling vacancies in 2024. Source: Ministry of Economy of Ukraine / UNN, June 4, 2024.
-- 96% of small businesses planned to hire within the next six months. Source: Wizehire Small Business Growth Report, 2024.
-- 30% of SMB owners said they were satisfied with candidate quality, but finding the right people takes too much time. Source: Wizehire Small Business Growth Report, 2024.
-- 43% of organizations already use AI in HR tasks. Source: SHRM Talent Trends, 2025.
+- 58% of enterprises in Ukraine reported difficulty finding qualified employees. Source: [Ministry of Economy of Ukraine / UNN](https://unn.ua/en/news/about-60percent-of-entrepreneurs-have-a-problem-finding-qualified-employees-ministry-of-economy), June 4, 2024.
+- 43% of businesses already faced difficulties filling vacancies in 2024. Source: [Ministry of Economy of Ukraine / UNN](https://unn.ua/en/news/about-60percent-of-entrepreneurs-have-a-problem-finding-qualified-employees-ministry-of-economy), June 4, 2024.
+- 96% of small businesses planned to hire within the next six months. Source: [Wizehire Small Business Growth Statistics](https://wizehire.com/small-business-growth-statistics), 2024.
+- 30% of SMB owners said that finding suitable applicants was time-consuming. Source: [Wizehire Small Business Growth Statistics](https://wizehire.com/small-business-growth-statistics), 2024.
+- 43% of organizations already use AI in HR tasks. Source: [SHRM Talent Trends 2025](https://www.shrm.org/topics-tools/research/2025-talent-trends/ai-in-hr), 2025.
 
 ## What Works in the MVP
 
@@ -78,6 +78,22 @@ Verified market context used in the pitch:
 8. The system processes the hiring request and returns a structured result with a recommended next step.
 
 More detail: [docs/demo-flow.md](docs/demo-flow.md)
+
+## How to Test
+
+1. Open the landing page.
+2. Click "Launch in Telegram".
+3. Start the bot with /start.
+4. Describe a hiring problem, for example:
+   "Потрібно знайти кандидата для AI automation / n8n workflow specialist."
+5. Answer the clarification question.
+6. Receive ranked candidate recommendations.
+
+## Demo Limitations
+
+The current MVP demonstrates one working HR / recruitment scenario.
+Other business workflow branches are planned for future development.
+The candidate database is currently prepared for demo purposes.
 
 ## Product Differentiation
 
