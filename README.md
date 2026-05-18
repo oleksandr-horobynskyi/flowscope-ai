@@ -6,7 +6,7 @@ The first hackathon MVP branch demonstrates AI-powered CV screening, where the a
 ## Links
 
 - Landing page: [flowscope-ai-launchpad.lovable.app](https://flowscope-ai-launchpad.lovable.app/)
-- Telegram bot: [AIDiscoveryAssistant_01_bot](https://t.me/AIDiscoveryAssistant_01_bot?start=landing)
+- Telegram bot: [AIDiscoveryAssistant_01_bot](https://t.me/FlowScopeAI_bot)
 
 ## Problem
 
