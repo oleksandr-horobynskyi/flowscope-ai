@@ -118,6 +118,12 @@ What makes it different:
 - Repository: GitHub
 - Demo Access: Lovable public link + Telegram bot
 
+## Demo Database
+
+The MVP uses a Google Sheets-based candidate database:
+[Google Sheets demo database](https://tinyurl.com/bde46s63)
+
+
 ## Workflow Example
 
 This repository also includes an example n8n workflow used in the FlowScope AI MVP:
@@ -162,7 +168,6 @@ This repository also includes an example n8n workflow used in the FlowScope AI M
 │   ├── mvp-scope.md
 │   ├── product-overview.md
 │   └── team.md
-└── output/
 ```
 
 ## Team
