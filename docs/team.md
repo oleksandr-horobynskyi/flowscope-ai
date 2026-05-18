@@ -3,7 +3,7 @@
 ## Team Members
 
 - Oleksandr Horobynskyi — Data Analyst
-- Євгенія — UI/UX Designer
+- Yevgeniia Ludchenko — UI/UX Designer
 - Eduard Kurish — AI Automation & Workflow Specialis, QA
 - Tetyana Kavatsyuk — AI Content Maker
 - Yuliana Dolhyi — UI/UX Designer

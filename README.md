@@ -162,9 +162,16 @@ This repository also includes an example n8n workflow used in the FlowScope AI M
 │   └── flowscope-ai-workflow.example.json
 ├── assets/
 │   └── screenshots/
+│       ├── bot-chat.png
+│       ├── flowscope-ai-workflow.png
+│       ├── landing-cta.png
+│       ├── landing-hero.png
+│       ├── landing-how-it-works.png
+│       └── landing-problem.png
 └── docs/
     ├── architecture.md
     ├── demo-flow.md
+    ├── flowscope_pricing_and_savings.md
     ├── mvp-scope.md
     ├── product-overview.md
     └── team.md
@@ -173,13 +180,13 @@ This repository also includes an example n8n workflow used in the FlowScope AI M
 ## Team
 
 - Oleksandr Horobynskyi — Data Analyst
-- Євгенія — UI/UX Designer
-- Eduard — AI Automation & Workflow Specialist
+- Yevgeniia Ludchenko — UI/UX Designer
+- Eduard Kurish — AI Automation & Workflow Specialis, QA
 - Tetyana Kavatsyuk — AI Content Maker
 - Yuliana Dolhyi — UI/UX Designer
 - Dmytro Zinchenko — AI No-Code
 - Noga Ivan — Data Analyst
-- Mykhaylo — PM
+- Mykhaylo Gorbatov — PM
 
 More detail: [docs/team.md](docs/team.md)
 
