@@ -4,7 +4,7 @@
 
 - Oleksandr Horobynskyi — Data Analyst
 - Євгенія — UI/UX Designer
-- Eduard — AI Automation & Workflow Specialist
+- Eduard Kurish — AI Automation & Workflow Specialis, QA
 - Tetyana Kavatsyuk — AI Content Maker
 - Yuliana Dolhyi — UI/UX Designer
 - Dmytro Zinchenko — AI No-Code
