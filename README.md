@@ -102,6 +102,13 @@ What makes it different:
 - Repository: GitHub
 - Demo Access: Lovable public link + Telegram bot
 
+## Workflow Example
+
+This repository also includes an example n8n workflow used in the FlowScope AI MVP:
+
+[View n8n workflow example](./workflows/flowscope-ai-workflow.example.json)
+
+
 ## Screenshots
 
 ### Landing Hero
@@ -129,6 +136,8 @@ What makes it different:
 ```text
 .
 ├── README.md
+├── workflows/
+│   └── flowscope-ai-workflow.example.json
 ├── assets/
 │   └── screenshots/
 ├── docs/
