@@ -79,6 +79,16 @@ Verified market context used in the pitch:
 
 More detail: [docs/demo-flow.md](docs/demo-flow.md)
 
+## How to Test
+
+1. Open the landing page.
+2. Click "Launch in Telegram".
+3. Start the bot with /start.
+4. Describe a hiring problem, for example:
+   "Потрібно знайти кандидата для AI automation / n8n workflow specialist."
+5. Answer the clarification question.
+6. Receive ranked candidate recommendations.
+
 ## How to Run / Test the MVP
 
 ### Test the deployed MVP
