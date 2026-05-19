@@ -79,15 +79,49 @@ Verified market context used in the pitch:
 
 More detail: [docs/demo-flow.md](docs/demo-flow.md)
 
-## How to Test
+## How to Run / Test the MVP
 
-1. Open the landing page.
-2. Click "Launch in Telegram".
-3. Start the bot with /start.
-4. Describe a hiring problem, for example:
-   "Потрібно знайти кандидата для AI automation / n8n workflow specialist."
-5. Answer the clarification question.
-6. Receive ranked candidate recommendations.
+### Test the deployed MVP
+
+1. Open the landing page:
+   [flowscope-ai-launchpad.lovable.app](https://flowscope-ai-launchpad.lovable.app/)
+
+2. Click **Launch in Telegram**.
+
+3. Start the bot:
+   @FlowScopeAI_bot
+
+4. Send `/start`.
+
+5. Follow the bot scenario:
+   - describe your business problem;
+   - provide selection criteria;
+   - provide a vacancy description;
+   - receive AI-generated candidate analysis.
+
+### Run the workflow in n8n
+
+1. Import the workflow example:
+   `workflows/flowscope-ai-workflow.example.json`
+
+2. Create credentials in n8n:
+   - Telegram Bot API
+   - Google Sheets OAuth2
+   - OpenAI API
+
+3. Prepare Google Sheets tabs:
+   - `BotMessages`
+   - `UserState`
+   - `Candidates`
+   - `Results`
+
+4. Replace placeholder values with your own credentials and Google Sheet ID.
+
+5. Activate the workflow in n8n.
+
+6. Send `/start` to the connected Telegram bot and complete the scenario.
+
+The workflow can be run either in n8n Cloud or in a self-hosted n8n instance.
 
 ## Demo Limitations
 
